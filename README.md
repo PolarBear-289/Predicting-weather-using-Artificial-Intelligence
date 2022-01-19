@@ -14,5 +14,6 @@ The other models are accurate in calculation but not in predictions the can not 
 Use of ANN will give more accurate result. Here, the error may or may not reduce completely. But, the accuracy will improve as compared to other forecasts.
 
 <h2>Accuracy</h2>
+89%
 ![image](https://user-images.githubusercontent.com/60652108/150161028-b977d8c0-4076-46e7-b139-3b5322d863ee.png)
 
